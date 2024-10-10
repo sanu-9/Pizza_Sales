@@ -10,6 +10,8 @@
 ### Best  & Worst Sellers Pizzas
 #### Classic Delux Pizza is highest seller pizza & revenue Generator.
 #### Brie Carre Pizza is least selling.
+### Month of July contributes to the highest revenue generation with 72K while least revenue is generated in the month of October.
+
 
 
 
